@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+byteforce.sqlite3
+byteforce.sqlite3-shm
+byteforce.sqlite3-wal
